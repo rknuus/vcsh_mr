@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/sublime3.git]
+checkout = vcsh clone https://github.com/rknuus/vcsh_sublime3.git
